@@ -1,4 +1,4 @@
-Able to convert notes into CSV formate readible for comma serperate multiple choice Anki.
+Description: Able to convert notes into CSV format readible for comma serperated multiple choice Anki.
 
 1. Install Anki App
 2. Install Anki Multiple Choice 10 solution add-on
