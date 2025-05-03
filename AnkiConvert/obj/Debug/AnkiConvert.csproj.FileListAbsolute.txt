@@ -1,0 +1,7 @@
+C:\Users\nicho_98nefl1\source\repos\AnkiConvert\AnkiConvert\bin\Debug\AnkiConvert.exe.config
+C:\Users\nicho_98nefl1\source\repos\AnkiConvert\AnkiConvert\bin\Debug\AnkiConvert.exe
+C:\Users\nicho_98nefl1\source\repos\AnkiConvert\AnkiConvert\bin\Debug\AnkiConvert.pdb
+C:\Users\nicho_98nefl1\source\repos\AnkiConvert\AnkiConvert\obj\Debug\AnkiConvert.csproj.AssemblyReference.cache
+C:\Users\nicho_98nefl1\source\repos\AnkiConvert\AnkiConvert\obj\Debug\AnkiConvert.csproj.CoreCompileInputs.cache
+C:\Users\nicho_98nefl1\source\repos\AnkiConvert\AnkiConvert\obj\Debug\AnkiConvert.exe
+C:\Users\nicho_98nefl1\source\repos\AnkiConvert\AnkiConvert\obj\Debug\AnkiConvert.pdb

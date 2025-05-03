@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicho_98nefl1\\source\\repos\\AnkiConvert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB69F5D-CAFB-4BE0-9C47-53A4CE0D5A32}|AnkiConvert\\AnkiConvert.csproj|c:\\users\\nicho_98nefl1\\source\\repos\\ankiconvert\\ankiconvert\\script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB69F5D-CAFB-4BE0-9C47-53A4CE0D5A32}|AnkiConvert\\AnkiConvert.csproj|solutionrelative:ankiconvert\\script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Script.cs",
+              "DocumentMoniker": "C:\\Users\\nicho_98nefl1\\source\\repos\\AnkiConvert\\AnkiConvert\\Script.cs",
+              "RelativeDocumentMoniker": "AnkiConvert\\Script.cs",
+              "ToolTip": "C:\\Users\\nicho_98nefl1\\source\\repos\\AnkiConvert\\AnkiConvert\\Script.cs",
+              "RelativeToolTip": "AnkiConvert\\Script.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAYwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:50:56.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
